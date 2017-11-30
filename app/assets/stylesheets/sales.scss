@@ -1,0 +1,35 @@
+.sales-index {
+   h1 {
+     margin-top: 5%;
+   }
+
+   #underline {
+     border-bottom: 3px solid brown;
+     width: 28%;
+     margin-bottom: 5%;
+     margin-top: 3px;
+   }
+
+   .btn-default {
+     float: right;
+     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+     margin-top: 3%;
+     width: 20%;
+     border-radius: 1px;
+     background-color: #48a0dc;
+     border-color: #48a0dc;
+     color: #fff;
+     font-family: 'Roboto Slab', serif;
+     font-weight: 600;
+   }
+
+   .btn-default:hover {
+     background-color: #fff;
+     border-color: #fff;
+     color: #48a0dc;
+   }
+
+
+
+
+}
